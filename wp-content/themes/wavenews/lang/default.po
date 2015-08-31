@@ -1,0 +1,3746 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WaveNews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-27 23:09+0800\n"
+"PO-Revision-Date: 2013-11-28 00:00+0800\n"
+"Last-Translator: wavesnows <themes@wavesnows.com>\n"
+"Language-Team: wavesnows <support@wavesnows.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-"
+"content/themes/wavenews/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Pages"
+msgstr ""
+
+#: 404.php:20 404.php:26 404.php:33 framework/shortcodes.php:2525
+msgid "Top"
+msgstr ""
+
+#: 404.php:22
+msgid "Monthly Archives"
+msgstr ""
+
+#: 404.php:29
+msgid "Category Archives"
+msgstr ""
+
+#: 404.php:37
+msgid "Feeds"
+msgstr ""
+
+#: 404.php:39
+msgid "Main RSS"
+msgstr ""
+
+#: 404.php:40
+msgid "Comment Feed"
+msgstr ""
+
+#: archive.php:35 blog.php:54 search.php:22
+msgid "No more Posts to load."
+msgstr ""
+
+#: archive.php:57 blog.php:76 search.php:40 framework/shortcodes.php:1740
+#: framework/shortcodes.php:1764 framework/shortcodes.php:1999
+#: framework/shortcodes.php:2022
+msgid "No more pages to load."
+msgstr ""
+
+#: archive.php:97 blog.php:127 search.php:70 framework/shortcodes.php:1919
+#: framework/shortcodes.php:2238 framework/shortcode/options.php:1943
+msgid "Load More"
+msgstr ""
+
+#: blog_loop_classic.php:79 framework/shortcodes.php:646
+#: framework/shortcodes.php:697
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: blog_loop_classic.php:91 single-news.php:109 single-news.php:180
+#: single.php:109 single.php:180 framework/shortcodes.php:295
+#: framework/shortcodes.php:1427
+msgid "Permalink"
+msgstr ""
+
+#: blog_loop_classic.php:92 single-news.php:108 single.php:108
+#: framework/shortcodes.php:277 framework/shortcodes.php:1409
+msgid "No Response"
+msgstr ""
+
+#: blog_loop_classic.php:92 single-news.php:108 single.php:108
+#: framework/shortcodes.php:281 framework/shortcodes.php:1413
+msgid "1 Response"
+msgstr ""
+
+#: blog_loop_classic.php:92 single-news.php:108 single.php:108
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:20
+msgid "Edit Comment"
+msgstr ""
+
+#: comments.php:25
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:56
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:76
+msgid "pingbacks / trackbacks on"
+msgstr ""
+
+#: comments.php:97
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:98
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:103
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#: comments.php:107
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:111
+msgid "Name (Required)"
+msgstr ""
+
+#: comments.php:115
+msgid "Email (Required)"
+msgstr ""
+
+#: comments.php:119
+msgid "Website"
+msgstr ""
+
+#: comments.php:124
+msgid "Comment"
+msgstr ""
+
+#: comments.php:126
+msgid "POST COMMENT"
+msgstr ""
+
+#: functions.php:424
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: searchform.php:2 framework/theme_class.php:137
+#: framework/options/wavesnow.php:2826
+msgid "Search"
+msgstr ""
+
+#: sendmail.php:23
+#, php-format
+msgid "%1$s's message from %2$s"
+msgstr ""
+
+#: sendmail.php:24
+msgid "Site: "
+msgstr ""
+
+#: sendmail.php:25
+msgid "Name: "
+msgstr ""
+
+#: sendmail.php:26
+msgid "Email: "
+msgstr ""
+
+#: sendmail.php:27
+msgid "Messages: "
+msgstr ""
+
+#: single-news.php:139 single.php:139
+msgid "About the author"
+msgstr ""
+
+#: single-news.php:143 single.php:143
+msgid "More posts by this author"
+msgstr ""
+
+#: framework/media-upload.php:23
+msgid "Delete Permanently"
+msgstr ""
+
+#: framework/media-upload.php:27
+msgid "You are about to delete"
+msgstr ""
+
+#: framework/media-upload.php:28
+msgid "Continue"
+msgstr ""
+
+#: framework/media-upload.php:28 framework/generators/option-generator.php:882
+msgid "Cancel"
+msgstr ""
+
+#: framework/media-upload.php:30
+msgid "Move to Trash"
+msgstr ""
+
+#: framework/shortcodes.php:269 framework/shortcodes.php:1401
+msgid "Permanent Link to"
+msgstr ""
+
+#: framework/shortcodes.php:279 framework/shortcodes.php:1411
+msgid " Responses"
+msgstr ""
+
+#: framework/shortcodes.php:285 framework/shortcodes.php:1417
+msgid "Comments are off for this post."
+msgstr ""
+
+#: framework/shortcodes.php:312 framework/shortcodes.php:1444
+msgid "Read More"
+msgstr ""
+
+#: framework/shortcodes.php:348 framework/shortcodes.php:1480
+#: framework/shortcodes.php:2372
+msgid "&laquo; First"
+msgstr ""
+
+#: framework/shortcodes.php:349 framework/shortcodes.php:1481
+#: framework/shortcodes.php:2373
+msgid "Last &raquo;"
+msgstr ""
+
+#: framework/shortcodes.php:350 framework/shortcodes.php:1482
+#: framework/shortcodes.php:2374
+msgid "&raquo;"
+msgstr ""
+
+#: framework/shortcodes.php:351 framework/shortcodes.php:1483
+#: framework/shortcodes.php:2375
+msgid "&laquo;"
+msgstr ""
+
+#: framework/shortcodes.php:352 framework/shortcodes.php:353
+#: framework/shortcodes.php:1484 framework/shortcodes.php:1485
+#: framework/shortcodes.php:2376 framework/shortcodes.php:2377
+msgid "..."
+msgstr ""
+
+#: framework/shortcodes.php:599
+msgid "RSS"
+msgstr ""
+
+#: framework/shortcodes.php:1784 framework/shortcodes.php:2114
+msgid "All"
+msgstr ""
+
+#: framework/shortcodes.php:2663
+msgid "Your message was successfully sent. <strong>Thank You!</strong>"
+msgstr ""
+
+#: framework/shortcodes.php:2668
+msgid "Name *"
+msgstr ""
+
+#: framework/shortcodes.php:2669
+msgid "Email *"
+msgstr ""
+
+#: framework/shortcodes.php:2670
+msgid "Message"
+msgstr ""
+
+#: framework/shortcodes.php:2671 framework/widgets/contact.php:45
+msgid "Submit"
+msgstr ""
+
+#: framework/theme_class.php:99
+msgid "Archives"
+msgstr ""
+
+#: framework/theme_class.php:101
+#, php-format
+msgid "Category Archive for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:104
+#, php-format
+msgid "Tag Archives for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:107
+#, php-format
+msgid "Daily Archive for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:110
+#, php-format
+msgid "Monthly Archive for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:113
+#, php-format
+msgid "Yearly Archive for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:122
+#, php-format
+msgid "Author Archive for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:125
+msgid "Blog Archives"
+msgstr ""
+
+#: framework/theme_class.php:129
+#, php-format
+msgid "Archives for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:133
+msgid "404 - Not Found"
+msgstr ""
+
+#: framework/theme_class.php:134
+msgid ""
+"Apologies, but the page you requested could not be found. Try using sitemap "
+"below."
+msgstr ""
+
+#: framework/theme_class.php:138
+#, php-format
+msgid "Search Results for: \"%s\""
+msgstr ""
+
+#: framework/theme_class.php:637
+msgid "<h4>Related Posts</h4>"
+msgstr ""
+
+#: framework/theme_class.php:677
+msgid "<h4>Recent Posts</h4>"
+msgstr ""
+
+#: framework/theme_class.php:755
+msgid "<h4>Related News</h4>"
+msgstr ""
+
+#: framework/theme_class.php:797
+msgid "<h4>Recent News</h4>"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:180
+#: framework/generators/metabox-generator.php:182
+#: framework/generators/option-generator.php:249
+#: framework/generators/option-generator.php:253
+#: framework/generators/option-generator.php:835
+#: framework/generators/option-generator.php:837
+#: framework/generators/option-generator.php:1219
+msgid "Upload"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:407
+#: framework/generators/option-generator.php:464
+#: framework/shortcode/create.php:75 framework/shortcode/create.php:81
+msgid "Select Option..."
+msgstr ""
+
+#: framework/generators/metabox-generator.php:576
+msgid "Select Linking method"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:591
+msgid "Select Page"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:604
+msgid "Select Portfolio"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:617
+msgid "Select Category"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:630
+msgid "Select Post"
+msgstr ""
+
+#: framework/generators/metabox-generator.php:799
+#: framework/generators/option-generator.php:1354
+#: framework/options/includes.php:116 framework/options/includes.php:160
+#: framework/options/includes.php:256
+msgid "More Help"
+msgstr ""
+
+#: framework/generators/option-generator.php:27
+msgid ""
+"Are you sure you want to reset to default? Please Note all wavesnow settings "
+"will be restored to defaults."
+msgstr ""
+
+#: framework/generators/option-generator.php:35
+msgid "Saving changes..."
+msgstr ""
+
+#: framework/generators/option-generator.php:40
+msgid "The changes were saved successfully"
+msgstr ""
+
+#: framework/generators/option-generator.php:45
+msgid "All options restored to defaults"
+msgstr ""
+
+#: framework/generators/option-generator.php:50
+msgid "All options have been imported successfully"
+msgstr ""
+
+#: framework/generators/option-generator.php:56
+msgid "You have already saved the changes"
+msgstr ""
+
+#: framework/generators/option-generator.php:61
+msgid "Nothing has been imported..."
+msgstr ""
+
+#: framework/generators/option-generator.php:67
+msgid "The changes could not be saved"
+msgstr ""
+
+#: framework/generators/option-generator.php:92
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/generators/option-generator.php:94
+msgid "Save Settings"
+msgstr ""
+
+#: framework/generators/option-generator.php:628
+msgid "Create"
+msgstr ""
+
+#: framework/generators/option-generator.php:630
+msgid "Current sidebars"
+msgstr ""
+
+#: framework/generators/option-generator.php:663
+msgid "Import"
+msgstr ""
+
+#: framework/generators/option-generator.php:719
+msgid "Body"
+msgstr ""
+
+#: framework/generators/option-generator.php:723
+#: framework/options/wavesnow.php:30
+msgid "Header"
+msgstr ""
+
+#: framework/generators/option-generator.php:726
+msgid "Page"
+msgstr ""
+
+#: framework/generators/option-generator.php:729
+#: framework/options/wavesnow.php:34 framework/options/wavesnow.php:404
+msgid "Footer"
+msgstr ""
+
+#: framework/generators/option-generator.php:738
+#: framework/generators/option-generator.php:1108
+msgid "Background Image"
+msgstr ""
+
+#: framework/generators/option-generator.php:742
+#: framework/generators/option-generator.php:1112
+msgid "No Image"
+msgstr ""
+
+#: framework/generators/option-generator.php:745
+#: framework/generators/option-generator.php:1115
+msgid "Presets"
+msgstr ""
+
+#: framework/generators/option-generator.php:748
+#: framework/generators/option-generator.php:1118
+msgid "Custom"
+msgstr ""
+
+#: framework/generators/option-generator.php:830
+#: framework/generators/option-generator.php:1216
+msgid "Upload a new custom image"
+msgstr ""
+
+#: framework/generators/option-generator.php:848
+#: framework/generators/option-generator.php:949
+msgid "Background color"
+msgstr ""
+
+#: framework/generators/option-generator.php:856
+#: framework/generators/option-generator.php:982
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/generators/option-generator.php:862
+#: framework/generators/option-generator.php:1016
+msgid "Background Attachment"
+msgstr ""
+
+#: framework/generators/option-generator.php:867
+#: framework/generators/option-generator.php:1049
+msgid "Background Position"
+msgstr ""
+
+#: framework/generators/option-generator.php:884
+msgid "Apply"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:9
+msgid "Homepage Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:10
+msgid "Page Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:11
+msgid "Blog Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:12
+msgid "News Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:13
+msgid "Portfolio Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:14
+msgid "Search Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:15
+msgid "Archive Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:16
+msgid "404 Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:19
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:20
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:21
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:22
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:23
+msgid "Fifth Footer Widget Area"
+msgstr ""
+
+#: framework/generators/sidebar-generator.php:24
+msgid "Sixth Footer Widget Area"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:3
+msgid "News Options"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:16
+#: framework/metaboxes/pages-metabox.php:34
+#: framework/metaboxes/portfolios-metabox.php:16
+#: framework/metaboxes/posts-metabox.php:20
+#: framework/metaboxes/slideshow-metabox.php:19
+#: framework/options/wavesnow.php:2823 framework/options/wavesnow.php:3199
+#: framework/options/wavesnow.php:3814
+msgid "General Settings"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:17
+#: framework/metaboxes/portfolios-metabox.php:17
+#: framework/metaboxes/posts-metabox.php:22
+msgid "Image and Video"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:18
+#: framework/metaboxes/portfolios-metabox.php:18
+#: framework/metaboxes/slideshow-metabox.php:3
+msgid "Slideshow Options"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:19
+#: framework/metaboxes/pages-metabox.php:37
+#: framework/metaboxes/portfolios-metabox.php:19
+#: framework/metaboxes/posts-metabox.php:23 framework/options/wavesnow.php:715
+#: framework/options/wavesnow.php:1129
+msgid "Slogan Heading"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:20
+#: framework/metaboxes/portfolios-metabox.php:20
+#: framework/options/wavesnow.php:35 framework/options/wavesnow.php:717
+msgid "SEO"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:38
+#: framework/metaboxes/pages-metabox.php:54
+#: framework/metaboxes/portfolios-metabox.php:38
+#: framework/metaboxes/posts-metabox.php:42
+#: framework/options/wavesnow.php:3665 framework/options/wavesnow.php:3832
+#: framework/shortcode/options.php:197 framework/shortcode/options.php:801
+#: framework/shortcode/options.php:1736
+msgid "Layout"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:39
+#: framework/metaboxes/portfolios-metabox.php:39
+msgid "Override the global single portfolio page layout for this post."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:57
+#: framework/metaboxes/pages-metabox.php:72
+#: framework/metaboxes/portfolios-metabox.php:57
+#: framework/metaboxes/posts-metabox.php:73
+msgid "Assign the custom sidebar to this post."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:67
+#: framework/metaboxes/pages-metabox.php:84
+#: framework/metaboxes/portfolios-metabox.php:67
+#: framework/metaboxes/posts-metabox.php:84
+#: framework/options/wavesnow.php:1130
+msgid "Page Introduce"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:83
+#: framework/metaboxes/pages-metabox.php:105
+#: framework/metaboxes/portfolios-metabox.php:83
+#: framework/metaboxes/posts-metabox.php:100
+msgid "Custom Description"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:104
+#: framework/metaboxes/portfolios-metabox.php:104
+#: framework/metaboxes/posts-metabox.php:199
+msgid "You can configure feature images and video here."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:108
+#: framework/metaboxes/portfolios-metabox.php:108
+#: framework/metaboxes/posts-metabox.php:205
+#: framework/options/wavesnow.php:2935 framework/shortcode/options.php:273
+#: framework/shortcode/options.php:1812
+msgid "Featured Image"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:109
+#: framework/metaboxes/portfolios-metabox.php:109
+msgid ""
+"Disable this option in order to remove featured image from current post."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:118
+#: framework/metaboxes/portfolios-metabox.php:118
+msgid "Image Height"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:119
+#: framework/metaboxes/portfolios-metabox.php:119
+msgid ""
+"Give this option a value, the height of featured image will not be generated "
+"while you choose to show random heights.  While uploading featured image you "
+"will see the height of image. To disbale manual height change the value of "
+"this option to zero "
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:132
+#: framework/metaboxes/portfolios-metabox.php:132
+msgid "Video URL"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:133
+#: framework/metaboxes/portfolios-metabox.php:133
+msgid ""
+"Add videos in place of featured image while viewing lightbox. Please use "
+"embed version of video's URL. since Youtube provides different URL for "
+"different purposes. For example this is an embed version of youtube URL : "
+"http://www.youtube.com/v/xxxxxxxxxxx."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:155
+#: framework/metaboxes/portfolios-metabox.php:155
+msgid "You can customize slideshow here."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:159
+#: framework/metaboxes/pages-metabox.php:135
+#: framework/metaboxes/portfolios-metabox.php:159
+msgid "Slidehsow For this page"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:160
+#: framework/metaboxes/portfolios-metabox.php:160
+msgid ""
+"You can enable slideshow for this post and you can choose which items to "
+"slide. You can also use one item which will give one static image."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:168
+#: framework/metaboxes/pages-metabox.php:144
+#: framework/metaboxes/portfolios-metabox.php:168
+#: framework/options/wavesnow.php:3228
+msgid "Select Your Slideshow"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:169
+#: framework/metaboxes/portfolios-metabox.php:169
+msgid "Select your favorit slider here. "
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:183
+#: framework/metaboxes/portfolios-metabox.php:183
+#: framework/options/wavesnow.php:3301 framework/options/wavesnow.php:3679
+msgid "Slideshow Items to show"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:184
+#: framework/metaboxes/portfolios-metabox.php:184
+msgid ""
+" Change which slides you like to show (in the page or post).  This is used "
+"for Anything slider and Flexslider."
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:209
+#: framework/metaboxes/pages-metabox.php:366
+#: framework/metaboxes/portfolios-metabox.php:209
+#: framework/metaboxes/posts-metabox.php:260
+#: framework/options/wavesnow.php:805 framework/options/wavesnow.php:3083
+#: framework/shortcode/options.php:961
+msgid "Heading"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:218
+#: framework/metaboxes/pages-metabox.php:375
+#: framework/metaboxes/portfolios-metabox.php:218
+#: framework/metaboxes/posts-metabox.php:269
+#: framework/options/wavesnow.php:814 framework/options/wavesnow.php:3092
+msgid "Highlight Heading"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:227
+#: framework/metaboxes/pages-metabox.php:384
+#: framework/metaboxes/portfolios-metabox.php:227
+#: framework/metaboxes/posts-metabox.php:278
+#: framework/options/wavesnow.php:823 framework/options/wavesnow.php:3101
+msgid "Sub Heading"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:236
+#: framework/metaboxes/news-metabox.php:277
+#: framework/metaboxes/pages-metabox.php:393
+#: framework/metaboxes/pages-metabox.php:435
+#: framework/metaboxes/portfolios-metabox.php:236
+#: framework/metaboxes/portfolios-metabox.php:277
+#: framework/metaboxes/posts-metabox.php:287
+#: framework/metaboxes/posts-metabox.php:328
+#: framework/options/portfolio.php:12 framework/options/wavesnow.php:832
+#: framework/options/wavesnow.php:3110 framework/post-types/news.php:86
+#: framework/shortcode/options.php:465 lang/news.php:86
+msgid "Description"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:262
+#: framework/metaboxes/portfolios-metabox.php:262
+msgid "SEO tools for optimum traffic ;)"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:267
+#: framework/metaboxes/pages-metabox.php:424
+#: framework/metaboxes/portfolios-metabox.php:267
+#: framework/metaboxes/posts-metabox.php:317
+msgid "Keywords"
+msgstr ""
+
+#: framework/metaboxes/news-metabox.php:268
+#: framework/metaboxes/pages-metabox.php:426
+#: framework/metaboxes/portfolios-metabox.php:268
+#: framework/metaboxes/posts-metabox.php:318
+msgid "The keywords should separate with Comma. Such as a,b,c "
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:21
+msgid "Page Options"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:35 framework/options/wavesnow.php:13
+#: framework/shortcode/options.php:2464
+msgid "Slideshow"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:36
+#: framework/shortcode/options.php:905
+msgid "Google Maps"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:38
+msgid "Page SEO"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:55
+msgid "Please choose this page's layout."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:136
+msgid "Enable slideshow for this Post."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:145
+msgid "Select your preferable slide show here"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:159
+msgid "Slideshow Items to show."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:160
+msgid "Choose which slides you would like to show in this page/post."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:189
+msgid "Google Map for This Page"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:190
+msgid ""
+"Display google map in this page's header. The Latitude and Longitude are "
+"required and the rest are optional."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:199
+msgid "Map Height"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:200
+msgid "Set your Maps' height here"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:213
+#: framework/shortcode/options.php:915
+msgid "Latitude"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:223
+#: framework/shortcode/options.php:921
+msgid "Longitude"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:233
+#: framework/shortcode/options.php:933
+msgid "Zoom"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:246
+msgid "Pan Control"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:254
+msgid "Zoom Control"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:262
+msgid "Map Type Control"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:270
+msgid "Scale Control"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:278
+msgid "Marker"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:286
+msgid "Google Maps Hue, Saturation, Lightness, Gamma"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:287
+msgid ""
+"If you dont want to change maps coloring, brightness and so on, disable this "
+"option."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:295
+msgid "Hue"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:296
+msgid ""
+"Sets the hue of the feature to match the hue of the color supplied. Note "
+"that the saturation and lightness of the feature is conserved, which means, "
+"the feature will not perfectly match the color supplied ."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:306
+msgid "Saturation"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:307
+msgid ""
+"Shifts the saturation of colors by a percentage of the original value if "
+"decreasing and a percentage of the remaining value if increasing. Valid "
+"values: [-100, 100]."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:320
+msgid "Lightness"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:321
+msgid ""
+"Shifts lightness of colors by a percentage of the original value if "
+"decreasing and a percentage of the remaining value if increasing. Valid "
+"values: [-100, 100]."
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:334
+msgid "Gamma"
+msgstr ""
+
+#: framework/metaboxes/pages-metabox.php:335
+msgid "Modifies the gamma by raising the lightness to the given power. "
+msgstr ""
+
+#: framework/metaboxes/portfolios-metabox.php:3
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:5
+#: framework/metaboxes/posts-metabox.php:21
+msgid "Post Options"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:24
+msgid "Post SEO"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:43
+msgid ""
+"This option will override the global single blog post layout here for this "
+"post."
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:133
+msgid "Meta Section"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:141
+msgid "Breadcrumb"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:149
+msgid "Social Bookmarks"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:150
+msgid "Show social bookmarks"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:158
+msgid "Tags"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:159
+msgid "Show tags for post."
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:167
+#: framework/options/wavesnow.php:2983
+msgid "Related Posts"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:168
+msgid "Show related posts."
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:176
+#: framework/options/wavesnow.php:2965
+msgid "About Author Box"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:177
+msgid "Show about author box."
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:206
+msgid "If you do not want to set a featured image kindly disable it here."
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:215
+#: framework/metaboxes/slideshow-metabox.php:243
+msgid "Video Site"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:228
+#: framework/metaboxes/slideshow-metabox.php:255
+msgid "Video Id"
+msgstr ""
+
+#: framework/metaboxes/posts-metabox.php:229
+msgid ""
+"When you fill this text box with the video id it (eg: http://www.youtube.com/"
+"watch?v=<strong>12345678901</strong>, https://vimeo.com/<strong>12345678</"
+"strong>), instead of featured image, video will be loaded. make sure you "
+"have chosen your video site in option above."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:20
+#: framework/options/wavesnow.php:11 framework/shortcode/options.php:736
+#: framework/shortcode/options.php:2890
+msgid "Style"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:21
+#: framework/shortcode/options.php:3431
+msgid "Video"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:38
+msgid "Item Style"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:39
+msgid ""
+"You can define a layout for this slider item. This is only usefull for "
+"anythingslide."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:58
+msgid "Link To"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:59
+msgid "The url that the slider item links to."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:69
+msgid "Slidehsow Link Button"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:70
+msgid "If you do not want to include a slideshow button please disable it here"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:79
+msgid "Slider Button Text"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:89
+msgid "Slider Description"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:90
+msgid "The description of the slider item."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:120
+msgid "Slider Item Background color"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:129
+msgid "Slider Title Color"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:138
+msgid "Slider Description Color"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:148
+msgid "Slider Button Skin Color"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:152
+#: framework/shortcode/options.php:4
+msgid "Carenian"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:153
+#: framework/shortcode/options.php:5
+msgid "Red"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:154
+#: framework/shortcode/options.php:6
+msgid "Red Orange"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:155
+#: framework/shortcode/options.php:7
+msgid "Sunglow"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:156
+#: framework/shortcode/options.php:8
+msgid "Green"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:157
+#: framework/shortcode/options.php:9
+msgid "Caribbean Green"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:158
+#: framework/shortcode/options.php:10
+msgid "Cerulean"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:159
+#: framework/shortcode/options.php:11
+msgid "Cobult"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:160
+#: framework/shortcode/options.php:12
+msgid "Blue Purpule"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:161
+#: framework/shortcode/options.php:13
+msgid "Deep Pink"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:162
+#: framework/shortcode/options.php:14
+msgid "Dark Brown"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:163
+#: framework/shortcode/options.php:15
+msgid "Brown"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:164
+#: framework/shortcode/options.php:16
+msgid "Apple Green"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:165
+#: framework/shortcode/options.php:17
+msgid "Almond"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:166
+#: framework/shortcode/options.php:18
+msgid "Air Force Blue"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:167
+#: framework/shortcode/options.php:19
+msgid "Dark Gray"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:168
+#: framework/shortcode/options.php:20
+msgid "Light Gray"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:181
+msgid "Slider Description Padding Top"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:195
+msgid "Image Padding Top & Bottom"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:196
+msgid "Ajust your image's padding Top & Bottom here"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:211
+msgid "Background Textures"
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:212
+msgid ""
+"You can define a preset background textures for this slider item on only "
+"'with description' style."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:238
+msgid "You can configure video here. Also this is only for anything slider."
+msgstr ""
+
+#: framework/metaboxes/slideshow-metabox.php:256
+msgid ""
+"If you fill this text box with the video id it (eg: http://www.youtube.com/"
+"watch?v=<strong>12345678901</strong>, https://vimeo.com/<strong>12345678</"
+"strong>), instead of featured image, video will be loaded. make sure you "
+"have chosen your video site from  option above."
+msgstr ""
+
+#: framework/options/portfolio.php:11 framework/post-types/news.php:85
+#: lang/news.php:85
+msgid "Categories"
+msgstr ""
+
+#: framework/options/slideshow.php:10
+msgid "Slider Item Title"
+msgstr ""
+
+#: framework/options/slideshow.php:11 framework/shortcode/options.php:2822
+msgid "Author"
+msgstr ""
+
+#: framework/options/slideshow.php:53
+msgid "Slideshows"
+msgstr ""
+
+#: framework/options/slideshow.php:53
+msgid "post type general name"
+msgstr ""
+
+#: framework/options/slideshow.php:54
+msgid "Slider Item"
+msgstr ""
+
+#: framework/options/slideshow.php:54
+msgid "post type singular name"
+msgstr ""
+
+#: framework/options/slideshow.php:55 framework/post-types/news.php:12
+#: framework/post-types/portfolio.php:8 lang/news.php:12
+msgid "Add New"
+msgstr ""
+
+#: framework/options/slideshow.php:55
+msgid "slideshow"
+msgstr ""
+
+#: framework/options/slideshow.php:56
+msgid "Add New Slider Item"
+msgstr ""
+
+#: framework/options/slideshow.php:57
+msgid "Edit Slider Item"
+msgstr ""
+
+#: framework/options/slideshow.php:58
+msgid "New Slider Item"
+msgstr ""
+
+#: framework/options/slideshow.php:59
+msgid "View Slider Item"
+msgstr ""
+
+#: framework/options/slideshow.php:60
+msgid "Search Slider Items"
+msgstr ""
+
+#: framework/options/slideshow.php:61
+msgid "No slider item found"
+msgstr ""
+
+#: framework/options/slideshow.php:62
+msgid "No slider items found in Trash"
+msgstr ""
+
+#: framework/options/wavesnow.php:9
+msgid "General"
+msgstr ""
+
+#: framework/options/wavesnow.php:10
+msgid "Homepage"
+msgstr ""
+
+#: framework/options/wavesnow.php:12
+msgid "Blog/News"
+msgstr ""
+
+#: framework/options/wavesnow.php:14 framework/post-types/portfolio.php:7
+#: framework/shortcode/options.php:1926
+msgid "Portfolio"
+msgstr ""
+
+#: framework/options/wavesnow.php:31
+msgid "Navigations"
+msgstr ""
+
+#: framework/options/wavesnow.php:32 framework/options/wavesnow.php:3816
+msgid "Social Networks"
+msgstr ""
+
+#: framework/options/wavesnow.php:33
+msgid "Custom Sidebars"
+msgstr ""
+
+#: framework/options/wavesnow.php:36
+msgid "Import Options"
+msgstr ""
+
+#: framework/options/wavesnow.php:37
+msgid "Export Options"
+msgstr ""
+
+#: framework/options/wavesnow.php:38
+msgid "Other Settings"
+msgstr ""
+
+#: framework/options/wavesnow.php:58
+msgid "Custom Logo"
+msgstr ""
+
+#: framework/options/wavesnow.php:59
+msgid "Upload your own custom logo by enabling this option first."
+msgstr ""
+
+#: framework/options/wavesnow.php:67
+msgid "Upload Custom Logo"
+msgstr ""
+
+#: framework/options/wavesnow.php:68
+msgid ""
+"Upload  your own custom logo here if you use your own logo and enable the "
+"custom logo option."
+msgstr ""
+
+#: framework/options/wavesnow.php:78
+msgid ""
+"Change this value to change the padding for the logo from top and bottom."
+msgstr ""
+
+#: framework/options/wavesnow.php:91
+msgid "Header Phone Number"
+msgstr ""
+
+#: framework/options/wavesnow.php:92
+msgid "The header phone number used in header."
+msgstr ""
+
+#: framework/options/wavesnow.php:99
+msgid "Header Email Address"
+msgstr ""
+
+#: framework/options/wavesnow.php:100
+msgid "The header email address used in header."
+msgstr ""
+
+#: framework/options/wavesnow.php:108
+msgid "Show Header Toolbar Tagline"
+msgstr ""
+
+#: framework/options/wavesnow.php:109
+msgid "Show header toolbar tagline in header."
+msgstr ""
+
+#: framework/options/wavesnow.php:118
+msgid "Header Fixed"
+msgstr ""
+
+#: framework/options/wavesnow.php:119
+msgid "Enable header section always be fixed on top."
+msgstr ""
+
+#: framework/options/wavesnow.php:144 framework/options/wavesnow.php:1128
+msgid "Main Navigation"
+msgstr ""
+
+#: framework/options/wavesnow.php:145
+msgid ""
+"Enable main navigation also need set Navigation Items under Appearance > "
+"Menu."
+msgstr ""
+
+#: framework/options/wavesnow.php:156
+msgid ""
+"This option allows you to enable a custom navigation on the left section of "
+"custom footer."
+msgstr ""
+
+#: framework/options/wavesnow.php:179
+msgid "Header Social Networks"
+msgstr ""
+
+#: framework/options/wavesnow.php:188
+msgid "Side Social Networks"
+msgstr ""
+
+#: framework/options/wavesnow.php:196
+msgid "Side Social Netowrks alignment"
+msgstr ""
+
+#: framework/options/wavesnow.php:208 framework/shortcode/options.php:3191
+msgid "Twitter"
+msgstr ""
+
+#: framework/options/wavesnow.php:215
+msgid "Facebook"
+msgstr ""
+
+#: framework/options/wavesnow.php:222
+msgid "Linkedin"
+msgstr ""
+
+#: framework/options/wavesnow.php:230
+msgid "Google"
+msgstr ""
+
+#: framework/options/wavesnow.php:237
+msgid "Delicious"
+msgstr ""
+
+#: framework/options/wavesnow.php:245
+msgid "Dribbble"
+msgstr ""
+
+#: framework/options/wavesnow.php:253
+msgid "Behance"
+msgstr ""
+
+#: framework/options/wavesnow.php:261
+msgid "Stumble Upon"
+msgstr ""
+
+#: framework/options/wavesnow.php:269
+msgid "Deviantart"
+msgstr ""
+
+#: framework/options/wavesnow.php:276 framework/shortcode/options.php:751
+msgid "Flickr"
+msgstr ""
+
+#: framework/options/wavesnow.php:283
+msgid "Digg"
+msgstr ""
+
+#: framework/options/wavesnow.php:298
+msgid "Skype"
+msgstr ""
+
+#: framework/options/wavesnow.php:306
+msgid "Youtube"
+msgstr ""
+
+#: framework/options/wavesnow.php:314
+msgid "Vimeo"
+msgstr ""
+
+#: framework/options/wavesnow.php:322
+msgid "Yahoo"
+msgstr ""
+
+#: framework/options/wavesnow.php:329
+msgid "Wordpress"
+msgstr ""
+
+#: framework/options/wavesnow.php:336
+msgid "Last.fm"
+msgstr ""
+
+#: framework/options/wavesnow.php:343
+msgid "Pinterest"
+msgstr ""
+
+#: framework/options/wavesnow.php:350
+msgid "Tumblr"
+msgstr ""
+
+#: framework/options/wavesnow.php:357
+msgid "Blogger"
+msgstr ""
+
+#: framework/options/wavesnow.php:378
+msgid "Create a new sidebar"
+msgstr ""
+
+#: framework/options/wavesnow.php:379
+msgid ""
+"Enter a name for new sidebar. It must be a valid name which starts with a "
+"letter, followed by letters, numbers, spaces, or underscores"
+msgstr ""
+
+#: framework/options/wavesnow.php:405
+msgid "Show footer section."
+msgstr ""
+
+#: framework/options/wavesnow.php:413
+msgid "Sub Footer"
+msgstr ""
+
+#: framework/options/wavesnow.php:414
+msgid "Use this option to enable or disable the sub-footer."
+msgstr ""
+
+#: framework/options/wavesnow.php:423
+msgid "Footer Column layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:453
+msgid ""
+"Copyright time range can automatic generate if enabled, it followed by the "
+"copyright text."
+msgstr ""
+
+#: framework/options/wavesnow.php:462
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/options/wavesnow.php:496
+msgid ""
+"Enter your Google Analytics ID here to track your site with Google Analytics."
+msgstr ""
+
+#: framework/options/wavesnow.php:505
+msgid "SEO Solution"
+msgstr ""
+
+#: framework/options/wavesnow.php:506
+msgid ""
+"If you are using an SEO plugin its recomended to disable this option for any "
+"unpredictable conflicts."
+msgstr ""
+
+#: framework/options/wavesnow.php:515
+msgid "Use Post Tags for Meta Keywords"
+msgstr ""
+
+#: framework/options/wavesnow.php:523
+msgid "Use Post Categories for Meta Keywords"
+msgstr ""
+
+#: framework/options/wavesnow.php:531
+msgid "Canonical Links"
+msgstr ""
+
+#: framework/options/wavesnow.php:532
+msgid ""
+"If you enable this option, it will automatically generate Canonical URLS for "
+"all your pages. This will help to prevent duplicate content penalties by "
+"Google."
+msgstr ""
+
+#: framework/options/wavesnow.php:540
+msgid "No-Index For Category and Tags Pages"
+msgstr ""
+
+#: framework/options/wavesnow.php:541
+msgid ""
+"Check this option to exclude category and tags pages from being crawled. Its "
+"usefull to avoid dublicate content to be indexed."
+msgstr ""
+
+#: framework/options/wavesnow.php:623
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/options/wavesnow.php:624
+msgid "Upload  your own custom favicon here."
+msgstr ""
+
+#: framework/options/wavesnow.php:634
+msgid "Image cropping"
+msgstr ""
+
+#: framework/options/wavesnow.php:635
+msgid ""
+"This option will crop images to fit the dimension, so some parts of images "
+"will be cropped out. if you dont want to crop images disable this option"
+msgstr ""
+
+#: framework/options/wavesnow.php:645
+msgid "Retina compatible images"
+msgstr ""
+
+#: framework/options/wavesnow.php:646
+msgid ""
+"This option will double the dimension of images, though since all images are "
+"blocked with its original sizes, they will not look large, the difference "
+"will be visible only in retina displays. "
+msgstr ""
+
+#: framework/options/wavesnow.php:655
+msgid "Scroll Top"
+msgstr ""
+
+#: framework/options/wavesnow.php:656
+msgid ""
+"Enabling this option will display a floating scroll to the top of the page "
+"at the bottom right corner of the page"
+msgstr ""
+
+#: framework/options/wavesnow.php:666
+msgid "Responsive Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:667
+msgid ""
+"Disabling this option will keep the layout as it is on smaller devices "
+"(phones nad tablets for eg.)"
+msgstr ""
+
+#: framework/options/wavesnow.php:676
+msgid "Smooth Page Scroll"
+msgstr ""
+
+#: framework/options/wavesnow.php:677
+msgid ""
+"You can enable/disable page vertical scroll smoothness which gives an smooth "
+"easing. "
+msgstr ""
+
+#: framework/options/wavesnow.php:714 framework/options/wavesnow.php:1122
+msgid "Genral Settings"
+msgstr ""
+
+#: framework/options/wavesnow.php:716 framework/options/wavesnow.php:1132
+msgid "Carousel"
+msgstr ""
+
+#: framework/options/wavesnow.php:732
+msgid "Homepage Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:746
+msgid "Homepage Content Top Section"
+msgstr ""
+
+#: framework/options/wavesnow.php:747
+msgid "Which Page to be the content of your homepage."
+msgstr ""
+
+#: framework/options/wavesnow.php:753 framework/options/wavesnow.php:764
+#: framework/options/wavesnow.php:2849
+msgid "Choose page.."
+msgstr ""
+
+#: framework/options/wavesnow.php:757
+msgid "Homepage Content Bottom Section"
+msgstr ""
+
+#: framework/options/wavesnow.php:758
+msgid "Which Page to be your homepage bottom section."
+msgstr ""
+
+#: framework/options/wavesnow.php:785
+msgid "Enable slogan in home page."
+msgstr ""
+
+#: framework/options/wavesnow.php:795
+msgid "Enable slogan before slideshow if slideshow enable on homepage."
+msgstr ""
+
+#: framework/options/wavesnow.php:860
+msgid "Add a carousel slider on homepage right before the footer."
+msgstr ""
+
+#: framework/options/wavesnow.php:869
+msgid "You can add text to label your slider "
+msgstr ""
+
+#: framework/options/wavesnow.php:879
+msgid "You can add text to describe your slider "
+msgstr ""
+
+#: framework/options/wavesnow.php:890
+msgid "items source"
+msgstr ""
+
+#: framework/options/wavesnow.php:891
+msgid ""
+"You can choose which sort of posts you would like to show on you Carousel "
+"slider. You can choose between, recent posts, posts form your portfolio or "
+"popular posts which is based on the count of the comments on each post."
+msgstr ""
+
+#: framework/options/wavesnow.php:903
+msgid "Post Types Categories to Show"
+msgstr ""
+
+#: framework/options/wavesnow.php:904
+msgid ""
+"You can edit which categories to show. This option only works when you "
+"select blog posts as source"
+msgstr ""
+
+#: framework/options/wavesnow.php:914
+msgid "Portfolio Categories to Show"
+msgstr ""
+
+#: framework/options/wavesnow.php:915
+msgid ""
+"Which categories to show, This option only works when you select portfolio "
+"posts as source"
+msgstr ""
+
+#: framework/options/wavesnow.php:924 framework/shortcode/options.php:248
+#: framework/shortcode/options.php:1787
+msgid "Offset"
+msgstr ""
+
+#: framework/options/wavesnow.php:925
+msgid "How many posts you would like to skip"
+msgstr ""
+
+#: framework/options/wavesnow.php:937 framework/options/wavesnow.php:3257
+#: framework/shortcode/options.php:351 framework/shortcode/options.php:1890
+#: framework/shortcode/options.php:2021
+msgid "Orderby"
+msgstr ""
+
+#: framework/options/wavesnow.php:938
+msgid "Sort retrieved Portfolio items by parameter."
+msgstr ""
+
+#: framework/options/wavesnow.php:944 framework/options/wavesnow.php:3264
+#: framework/shortcode/options.php:356 framework/shortcode/options.php:1895
+#: framework/shortcode/options.php:2026
+msgid "No order"
+msgstr ""
+
+#: framework/options/wavesnow.php:945 framework/options/wavesnow.php:3265
+#: framework/shortcode/options.php:357 framework/shortcode/options.php:1896
+#: framework/shortcode/options.php:2027
+msgid "Order by post id"
+msgstr ""
+
+#: framework/options/wavesnow.php:946 framework/options/wavesnow.php:3266
+#: framework/shortcode/options.php:359 framework/shortcode/options.php:1898
+#: framework/shortcode/options.php:2029
+msgid "Order by title"
+msgstr ""
+
+#: framework/options/wavesnow.php:947 framework/options/wavesnow.php:3267
+#: framework/shortcode/options.php:360 framework/shortcode/options.php:1899
+#: framework/shortcode/options.php:2030
+msgid "Order by date"
+msgstr ""
+
+#: framework/options/wavesnow.php:948
+msgid "Order by comment Count"
+msgstr ""
+
+#: framework/options/wavesnow.php:949 framework/options/wavesnow.php:3268
+#: framework/shortcode/options.php:361 framework/shortcode/options.php:1900
+#: framework/shortcode/options.php:2031
+msgid "Random order"
+msgstr ""
+
+#: framework/options/wavesnow.php:954 framework/options/wavesnow.php:3273
+#: framework/shortcode/options.php:340 framework/shortcode/options.php:1879
+#: framework/shortcode/options.php:2010
+msgid "Order"
+msgstr ""
+
+#: framework/options/wavesnow.php:955 framework/options/wavesnow.php:3274
+#: framework/shortcode/options.php:341 framework/shortcode/options.php:1880
+#: framework/shortcode/options.php:2011
+msgid ""
+"Designates the ascending or descending order of the 'orderby' parameter."
+msgstr ""
+
+#: framework/options/wavesnow.php:961 framework/options/wavesnow.php:3280
+#: framework/shortcode/options.php:345 framework/shortcode/options.php:1884
+#: framework/shortcode/options.php:2015
+msgid "Ascending Order"
+msgstr ""
+
+#: framework/options/wavesnow.php:962 framework/options/wavesnow.php:3281
+#: framework/shortcode/options.php:346 framework/shortcode/options.php:1885
+#: framework/shortcode/options.php:2016
+msgid "Descending Order"
+msgstr ""
+
+#: framework/options/wavesnow.php:967
+msgid "Post Title"
+msgstr ""
+
+#: framework/options/wavesnow.php:968
+msgid "Enable to include a post title"
+msgstr ""
+
+#: framework/options/wavesnow.php:976
+msgid "Post Category"
+msgstr ""
+
+#: framework/options/wavesnow.php:977
+msgid "Enable to add Post Category."
+msgstr ""
+
+#: framework/options/wavesnow.php:985
+msgid "Post Numbers"
+msgstr ""
+
+#: framework/options/wavesnow.php:986
+msgid ""
+"The number of items you would like to be shown on your carousel slider. "
+msgstr ""
+
+#: framework/options/wavesnow.php:998 framework/options/wavesnow.php:3352
+msgid "Delay"
+msgstr ""
+
+#: framework/options/wavesnow.php:1010
+msgid "Auto Sliding"
+msgstr ""
+
+#: framework/options/wavesnow.php:1018 framework/options/wavesnow.php:3399
+msgid "Slider Easing"
+msgstr ""
+
+#: framework/options/wavesnow.php:1019 framework/options/wavesnow.php:3400
+#: framework/options/wavesnow.php:3604
+msgid "Set the easing of the sliding animation."
+msgstr ""
+
+#: framework/options/wavesnow.php:1078
+msgid "Description which will be displayed in search engines."
+msgstr ""
+
+#: framework/options/wavesnow.php:1087
+msgid ""
+"Tags which will be used in homepage meta keywords. Use Comma(,) to separate."
+msgstr ""
+
+#: framework/options/wavesnow.php:1123
+msgid "Backgrounds"
+msgstr ""
+
+#: framework/options/wavesnow.php:1124
+msgid "Fonts"
+msgstr ""
+
+#: framework/options/wavesnow.php:1125
+msgid "Parallax Backgrounds"
+msgstr ""
+
+#: framework/options/wavesnow.php:1126
+msgid "Header Section"
+msgstr ""
+
+#: framework/options/wavesnow.php:1131
+msgid "Sidebar"
+msgstr ""
+
+#: framework/options/wavesnow.php:1134
+msgid "Footer Section"
+msgstr ""
+
+#: framework/options/wavesnow.php:1135 framework/options/wavesnow.php:2783
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/options/wavesnow.php:1148
+msgid "These options defines general colors and fonts weight and size. "
+msgstr ""
+
+#: framework/options/wavesnow.php:1154
+msgid ""
+"Main Color should be dominant and vivid color (for eg. orange, green or "
+"light blue). "
+msgstr ""
+
+#: framework/options/wavesnow.php:1166
+msgid ""
+"Supporting color is site's neutral color and dark color (for eg. dark brown "
+"or dark gray.)"
+msgstr ""
+
+#: framework/options/wavesnow.php:1464
+msgid ""
+"In this section you can modify all the backgrounds of your site including "
+"header, page, body, footer. Here, you can set the layout you would like your "
+"site to look like, then click on different layout sections to add/create "
+"differnt backgrounds."
+msgstr ""
+
+#: framework/options/wavesnow.php:1469
+msgid "Choose between boxed and full width layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:1470
+msgid ""
+"Choose between a full or a boxed layout to set how your website's layout "
+"will look like."
+msgstr ""
+
+#: framework/options/wavesnow.php:1516
+msgid "Background Settings"
+msgstr ""
+
+#: framework/options/wavesnow.php:1517
+msgid ""
+"Please click on the different sections to modify their backgrounds and don't "
+"forget to click <strong><em>apply</em></strong> before you back to modify "
+"other part."
+msgstr ""
+
+#: framework/options/wavesnow.php:1823
+msgid ""
+"This section gives your the ability to implement Parallax effect on your "
+"Body and Page section backgrounds. Parallax will give your backgroudns a "
+"sense of 3D effect, it means they will move slower or faster than your page "
+"scroll."
+msgstr ""
+
+#: framework/options/wavesnow.php:1829
+msgid "Body Parallax"
+msgstr ""
+
+#: framework/options/wavesnow.php:1830
+msgid "Add parallax effect on your body background image"
+msgstr ""
+
+#: framework/options/wavesnow.php:1839
+msgid "Body Parallax Speed Factor"
+msgstr ""
+
+#: framework/options/wavesnow.php:1840 framework/options/wavesnow.php:1867
+msgid ""
+"This speed will determine how fast your background moves along the scroll "
+"page"
+msgstr ""
+
+#: framework/options/wavesnow.php:1856
+msgid "Page Parallax"
+msgstr ""
+
+#: framework/options/wavesnow.php:1857
+msgid ""
+"Enable this option if you would like to have parallax effect on your body "
+"background image"
+msgstr ""
+
+#: framework/options/wavesnow.php:1866
+msgid "Page Parallax Speed Factor"
+msgstr ""
+
+#: framework/options/wavesnow.php:1892
+msgid ""
+"In this section you can modify the coloring of the Header Section elements."
+msgstr ""
+
+#: framework/options/wavesnow.php:2026
+msgid "Header Social Link Round Border"
+msgstr ""
+
+#: framework/options/wavesnow.php:2027
+msgid "Show round border for social link button."
+msgstr ""
+
+#: framework/options/wavesnow.php:2047
+msgid "In this section you can modify the coloring of Main Navigation Section."
+msgstr ""
+
+#: framework/options/wavesnow.php:2070
+msgid "Main Navigation Background Image"
+msgstr ""
+
+#: framework/options/wavesnow.php:2090
+msgid "This option works when you have chosen style 2 for main navigation."
+msgstr ""
+
+#: framework/options/wavesnow.php:2189
+msgid ""
+"This section gives you the opportunity to modify the coloring of Slogan "
+"Heading Section which can be added to any page, post, portfolio. Also, this "
+"section allows you to load your site slogan or important words."
+msgstr ""
+
+#: framework/options/wavesnow.php:2285
+msgid ""
+"In this section you can modify coloring & Background of Page Introduce "
+"Section. Its located in all pages and posts which contains page title and "
+"description."
+msgstr ""
+
+#: framework/options/wavesnow.php:2291
+msgid "Page Introduce Title"
+msgstr ""
+
+#: framework/options/wavesnow.php:2300
+msgid "Page Introduce Description"
+msgstr ""
+
+#: framework/options/wavesnow.php:2309
+msgid "Page Introduce Title Size"
+msgstr ""
+
+#: framework/options/wavesnow.php:2322
+msgid "Page Introduce Title Weight"
+msgstr ""
+
+#: framework/options/wavesnow.php:2337
+msgid "Page Introduce Description Size"
+msgstr ""
+
+#: framework/options/wavesnow.php:2351
+msgid "Background"
+msgstr ""
+
+#: framework/options/wavesnow.php:2422
+msgid "This section allows you to modify the coloring of sidebar elements."
+msgstr ""
+
+#: framework/options/wavesnow.php:2526
+msgid "This section allows you to modify the carousel in home page."
+msgstr ""
+
+#: framework/options/wavesnow.php:2563
+msgid "Here, you can modify coloring of Footer section."
+msgstr ""
+
+#: framework/options/wavesnow.php:2784
+msgid ""
+"You can write your own custom css, this way you wont need to modify Theme "
+"CSS files."
+msgstr ""
+
+#: framework/options/wavesnow.php:2824
+msgid "Single Post"
+msgstr ""
+
+#: framework/options/wavesnow.php:2825
+msgid "Archive"
+msgstr ""
+
+#: framework/options/wavesnow.php:2842
+msgid "Blog Page"
+msgstr ""
+
+#: framework/options/wavesnow.php:2843
+msgid ""
+"Choose which page you would like to assign as Blog page. The targeted Page "
+"will get the Blog Loop and you will be able to change its options."
+msgstr ""
+
+#: framework/options/wavesnow.php:2853
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:2868
+msgid "Loop Layout Style"
+msgstr ""
+
+#: framework/options/wavesnow.php:2869
+msgid "Select an outline for your blog page using this option"
+msgstr ""
+
+#: framework/options/wavesnow.php:2882
+msgid "Blog Classic Style Featured Image Height"
+msgstr ""
+
+#: framework/options/wavesnow.php:2894
+msgid "Exclude Categories"
+msgstr ""
+
+#: framework/options/wavesnow.php:2895
+msgid ""
+"The option allows you to exclude as many categories as you like from your "
+"blog loop."
+msgstr ""
+
+#: framework/options/wavesnow.php:2920
+msgid "Single Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:2921
+msgid ""
+"This option allows you to define the page layout of Blog Single page as full "
+"width without sidebar, left sidebar or right sidebar."
+msgstr ""
+
+#: framework/options/wavesnow.php:2936
+msgid "This option allows you to add featured image to your blog single page."
+msgstr ""
+
+#: framework/options/wavesnow.php:2944 framework/shortcode/options.php:227
+#: framework/shortcode/options.php:1766
+msgid "Featured Image Height"
+msgstr ""
+
+#: framework/options/wavesnow.php:2956
+msgid "Blog Meta"
+msgstr ""
+
+#: framework/options/wavesnow.php:2957
+msgid "Enable the blog meta option from here."
+msgstr ""
+
+#: framework/options/wavesnow.php:2966
+msgid "You can enable or disable the about author box from here."
+msgstr ""
+
+#: framework/options/wavesnow.php:2975
+msgid "Disable Social Bookmarks"
+msgstr ""
+
+#: framework/options/wavesnow.php:2984
+msgid ""
+"If you do not want to display related posts on the bottom of the blog single "
+"page then you can disable the option."
+msgstr ""
+
+#: framework/options/wavesnow.php:2992
+msgid "Previous & Next Navigation"
+msgstr ""
+
+#: framework/options/wavesnow.php:2993
+msgid ""
+"You can disable or enable previous or next navigation which you can find it "
+"on the bottom of the single blog page before comment section."
+msgstr ""
+
+#: framework/options/wavesnow.php:3001
+msgid "Enable / Disbale Blog Posts Comments"
+msgstr ""
+
+#: framework/options/wavesnow.php:3009
+msgid "Comments Date Format"
+msgstr ""
+
+#: framework/options/wavesnow.php:3010
+msgid "This option allows you to set the date format of your comments section."
+msgstr ""
+
+#: framework/options/wavesnow.php:3044
+msgid "Archive Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:3059
+msgid "Archive Layout Style"
+msgstr ""
+
+#: framework/options/wavesnow.php:3135
+msgid "Search Layout"
+msgstr ""
+
+#: framework/options/wavesnow.php:3151
+msgid "Search Layout Style"
+msgstr ""
+
+#: framework/options/wavesnow.php:3200
+msgid "Anything Slider"
+msgstr ""
+
+#: framework/options/wavesnow.php:3201
+msgid "Anything Slider Animation"
+msgstr ""
+
+#: framework/options/wavesnow.php:3202
+msgid "Flexslider"
+msgstr ""
+
+#: framework/options/wavesnow.php:3229
+msgid ""
+"Select which sort of slideshow you would like to include in your website"
+msgstr ""
+
+#: framework/options/wavesnow.php:3242
+msgid "Slides Count"
+msgstr ""
+
+#: framework/options/wavesnow.php:3243
+msgid "Set how many Slides to be shown on your slider."
+msgstr ""
+
+#: framework/options/wavesnow.php:3258
+msgid "Sort retrieved Slideshow items by parameter."
+msgstr ""
+
+#: framework/options/wavesnow.php:3302
+msgid ""
+"You may choose which items to be shown on this slideshow. This is fully "
+"optional if you leave this field empty, all of the items will be shown"
+msgstr ""
+
+#: framework/options/wavesnow.php:3312
+msgid "Slider Controls Style"
+msgstr ""
+
+#: framework/options/wavesnow.php:3313
+msgid "This option used to change the style of slidshow arrows and pagination."
+msgstr ""
+
+#: framework/options/wavesnow.php:3326
+msgid "Animation Time"
+msgstr ""
+
+#: framework/options/wavesnow.php:3327
+msgid "Set the transition speed (in milliseconds) here"
+msgstr ""
+
+#: framework/options/wavesnow.php:3339
+msgid "resume Delay"
+msgstr ""
+
+#: framework/options/wavesnow.php:3340
+msgid ""
+"Resume slideshow after user interaction, only if autoplayLocked is true (in "
+"milliseconds)."
+msgstr ""
+
+#: framework/options/wavesnow.php:3353
+msgid ""
+"Set how long a pause between slideshow transitions should take in AutoPlay "
+"mode (in milliseconds)."
+msgstr ""
+
+#: framework/options/wavesnow.php:3365 framework/options/wavesnow.php:3729
+msgid "Autoplay"
+msgstr ""
+
+#: framework/options/wavesnow.php:3366
+msgid "Enable this option, if you would like slider to autoplay."
+msgstr ""
+
+#: framework/options/wavesnow.php:3374 framework/options/wavesnow.php:3773
+msgid "Pause on Hover"
+msgstr ""
+
+#: framework/options/wavesnow.php:3375
+msgid "Enable the slideshow pause on hover."
+msgstr ""
+
+#: framework/options/wavesnow.php:3383 framework/shortcode/options.php:332
+#: framework/shortcode/options.php:1871
+msgid "Pagination"
+msgstr ""
+
+#: framework/options/wavesnow.php:3391
+msgid "Arrows"
+msgstr ""
+
+#: framework/options/wavesnow.php:3463
+msgid "Animations"
+msgstr ""
+
+#: framework/options/wavesnow.php:3471
+msgid "Full Width Image Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3495
+msgid "Heading Text Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3520
+msgid "Description Text Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3544
+msgid "Button Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3568
+msgid "Icon image Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3569
+msgid ""
+"This is image used on with description mode, which lays beside description"
+msgstr ""
+
+#: framework/options/wavesnow.php:3591
+msgid "Animations Speed"
+msgstr ""
+
+#: framework/options/wavesnow.php:3603
+msgid "Easing Animations"
+msgstr ""
+
+#: framework/options/wavesnow.php:3666
+msgid ""
+"If you choose full width layout, then you should upload 1920px width images "
+"to fit the large screens."
+msgstr ""
+
+#: framework/options/wavesnow.php:3680
+msgid ""
+"You may choose which items to be shown on this slideshow. This is fully "
+"optional. In case you leave this field empty, all items will be shown"
+msgstr ""
+
+#: framework/options/wavesnow.php:3690
+msgid "Slideshow Height"
+msgstr ""
+
+#: framework/options/wavesnow.php:3691
+msgid "Adjust your slideshow's height here"
+msgstr ""
+
+#: framework/options/wavesnow.php:3703
+msgid "Effect"
+msgstr ""
+
+#: framework/options/wavesnow.php:3716
+msgid "Slide Direction"
+msgstr ""
+
+#: framework/options/wavesnow.php:3730
+msgid "Enable autoplay for slider."
+msgstr ""
+
+#: framework/options/wavesnow.php:3738
+msgid "Slideshow Speed"
+msgstr ""
+
+#: framework/options/wavesnow.php:3739
+msgid "Time elapsed between each autoplay sliding case."
+msgstr ""
+
+#: framework/options/wavesnow.php:3751
+msgid "Animation Duration"
+msgstr ""
+
+#: framework/options/wavesnow.php:3752
+msgid "Speed of animation"
+msgstr ""
+
+#: framework/options/wavesnow.php:3764
+msgid "Disable Caption"
+msgstr ""
+
+#: framework/options/wavesnow.php:3765
+msgid ""
+"If this option is disabled, the title, description,  read-more button will "
+"be disabled."
+msgstr ""
+
+#: framework/options/wavesnow.php:3774
+msgid "If true & the slideshow is active, the slideshow will pause on hover."
+msgstr ""
+
+#: framework/options/wavesnow.php:3815
+msgid "Single Page"
+msgstr ""
+
+#: framework/options/wavesnow.php:3833
+msgid ""
+"This option allows you to remove sidebar, place it on the right or left of "
+"the single portfolio page. There are three options available, full width, "
+"right sidebar and left sidebar."
+msgstr ""
+
+#: framework/options/wavesnow.php:3849
+msgid "Post Featured Image"
+msgstr ""
+
+#: framework/options/wavesnow.php:3850
+msgid ""
+"Using this options you can enable or disable featured image on your single "
+"portfolio page."
+msgstr ""
+
+#: framework/options/wavesnow.php:3858
+msgid "Post Featured Image Height"
+msgstr ""
+
+#: framework/options/wavesnow.php:3872
+msgid ""
+"It is set to 'portfolio' by default but you can change it to anything to "
+"suite your preference."
+msgstr ""
+
+#: framework/options/wavesnow.php:3898
+msgid "Disable/Enable your post title here."
+msgstr ""
+
+#: framework/options/wavesnow.php:3908
+msgid "Disable/Enable your post category."
+msgstr ""
+
+#: framework/options/wavesnow.php:3917
+msgid ""
+"Disable/Enable your post meta. Post meta includes social share networks and "
+"post date."
+msgstr ""
+
+#: framework/options/wavesnow.php:3926
+msgid "Disable/Enable your post date."
+msgstr ""
+
+#: framework/options/wavesnow.php:3935
+msgid "Post Comment"
+msgstr ""
+
+#: framework/options/wavesnow.php:3936
+msgid "Disable/Enable the comment section on your single portfolio page."
+msgstr ""
+
+#: framework/post-types/news.php:10 framework/post-types/news.php:11
+#: framework/post-types/news.php:22 framework/shortcode/options.php:1720
+#: lang/news.php:10 lang/news.php:11 lang/news.php:22
+msgid "News"
+msgstr ""
+
+#: framework/post-types/news.php:13 lang/news.php:13
+msgid "Add New News"
+msgstr ""
+
+#: framework/post-types/news.php:14 lang/news.php:14
+msgid "Edit News"
+msgstr ""
+
+#: framework/post-types/news.php:15 lang/news.php:15
+msgid "New News"
+msgstr ""
+
+#: framework/post-types/news.php:16 lang/news.php:16
+msgid "View News"
+msgstr ""
+
+#: framework/post-types/news.php:17 lang/news.php:17
+msgid "Search News"
+msgstr ""
+
+#: framework/post-types/news.php:18 lang/news.php:18
+msgid "No news found"
+msgstr ""
+
+#: framework/post-types/news.php:19 lang/news.php:19
+msgid "No News found in Trash"
+msgstr ""
+
+#: framework/post-types/news.php:41 lang/news.php:41
+msgid "News Categories"
+msgstr ""
+
+#: framework/post-types/news.php:42 lang/news.php:42
+msgid "News Category"
+msgstr ""
+
+#: framework/post-types/news.php:43 framework/post-types/portfolio.php:37
+#: lang/news.php:43
+msgid "Search Categories"
+msgstr ""
+
+#: framework/post-types/news.php:44 framework/post-types/portfolio.php:38
+#: lang/news.php:44
+msgid "Popular Categories"
+msgstr ""
+
+#: framework/post-types/news.php:45 framework/post-types/portfolio.php:39
+#: lang/news.php:45
+msgid "All Categories"
+msgstr ""
+
+#: framework/post-types/news.php:48 lang/news.php:48
+msgid "Edit News Category"
+msgstr ""
+
+#: framework/post-types/news.php:49 lang/news.php:49
+msgid "Update News Category"
+msgstr ""
+
+#: framework/post-types/news.php:50 lang/news.php:50
+msgid "Add New News Category"
+msgstr ""
+
+#: framework/post-types/news.php:51 lang/news.php:51
+msgid "New News Category Name"
+msgstr ""
+
+#: framework/post-types/news.php:52 lang/news.php:52
+msgid "Separate News category with commas"
+msgstr ""
+
+#: framework/post-types/news.php:53 lang/news.php:53
+msgid "Add or remove News category"
+msgstr ""
+
+#: framework/post-types/news.php:54 lang/news.php:54
+msgid "Choose from the most used News category"
+msgstr ""
+
+#: framework/post-types/news.php:84 lang/news.php:84
+msgid "News Name"
+msgstr ""
+
+#: framework/post-types/news.php:87 lang/news.php:87
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/post-types/portfolio.php:6
+msgid "Portfolios"
+msgstr ""
+
+#: framework/post-types/portfolio.php:9
+msgid "Add New Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:10
+msgid "Edit Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:11
+msgid "New Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:12
+msgid "View Portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:13
+msgid "Search Portfolios"
+msgstr ""
+
+#: framework/post-types/portfolio.php:14
+msgid "No portfolios found"
+msgstr ""
+
+#: framework/post-types/portfolio.php:15
+msgid "No portfolios found in Trash"
+msgstr ""
+
+#: framework/post-types/portfolio.php:18
+msgid "portfolio"
+msgstr ""
+
+#: framework/post-types/portfolio.php:35
+msgid "Portfolio Categories"
+msgstr ""
+
+#: framework/post-types/portfolio.php:36
+msgid "Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:42
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:43
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:44
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:45
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: framework/post-types/portfolio.php:46
+msgid "Separate Portfolio category with commas"
+msgstr ""
+
+#: framework/post-types/portfolio.php:47
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: framework/post-types/portfolio.php:48
+msgid "Choose from the most used portfolio category"
+msgstr ""
+
+#: framework/shortcode/create.php:36
+msgid "Choose One Shortcode..."
+msgstr ""
+
+#: framework/shortcode/create.php:116
+msgid "Preview"
+msgstr ""
+
+#: framework/shortcode/create.php:117
+msgid "Preview Content"
+msgstr ""
+
+#: framework/shortcode/create.php:121
+msgid ""
+"Note: Copy the short code to the editor. If you use the <em>Insert "
+"Shortcode</em> button, there is no need to click <em>Preview Content</em> "
+"button first. "
+msgstr ""
+
+#: framework/shortcode/options.php:26
+msgid "Accordion"
+msgstr ""
+
+#: framework/shortcode/options.php:30
+msgid "Number of pans"
+msgstr ""
+
+#: framework/shortcode/options.php:39 framework/shortcode/options.php:51
+#: framework/shortcode/options.php:63 framework/shortcode/options.php:75
+#: framework/shortcode/options.php:87 framework/shortcode/options.php:99
+#: framework/shortcode/options.php:111 framework/shortcode/options.php:123
+#, php-format
+msgid "Accordion %d Title"
+msgstr ""
+
+#: framework/shortcode/options.php:45 framework/shortcode/options.php:57
+#: framework/shortcode/options.php:69 framework/shortcode/options.php:81
+#: framework/shortcode/options.php:93 framework/shortcode/options.php:105
+#: framework/shortcode/options.php:117 framework/shortcode/options.php:129
+#, php-format
+msgid "Accordion %d Content"
+msgstr ""
+
+#: framework/shortcode/options.php:138
+msgid "Blockquotes"
+msgstr ""
+
+#: framework/shortcode/options.php:142 framework/shortcode/options.php:399
+msgid "Align"
+msgstr ""
+
+#: framework/shortcode/options.php:172 framework/shortcode/options.php:555
+#: framework/shortcode/options.php:668 framework/shortcode/options.php:987
+#: framework/shortcode/options.php:1000 framework/shortcode/options.php:1710
+#: framework/shortcode/options.php:2878 framework/shortcode/options.php:3011
+msgid "Content"
+msgstr ""
+
+#: framework/shortcode/options.php:181
+msgid "Blog"
+msgstr ""
+
+#: framework/shortcode/options.php:208 framework/shortcode/options.php:1747
+msgid "Parent Container"
+msgstr ""
+
+#: framework/shortcode/options.php:212 framework/shortcode/options.php:1751
+msgid "Full Width"
+msgstr ""
+
+#: framework/shortcode/options.php:213 framework/shortcode/options.php:529
+#: framework/shortcode/options.php:1752
+msgid "One Half"
+msgstr ""
+
+#: framework/shortcode/options.php:214 framework/shortcode/options.php:531
+#: framework/shortcode/options.php:1753
+msgid "One Third"
+msgstr ""
+
+#: framework/shortcode/options.php:215 framework/shortcode/options.php:533
+#: framework/shortcode/options.php:1754
+msgid "Two Third"
+msgstr ""
+
+#: framework/shortcode/options.php:216 framework/shortcode/options.php:535
+#: framework/shortcode/options.php:1755
+msgid "One Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:217 framework/shortcode/options.php:537
+#: framework/shortcode/options.php:1756
+msgid "Three Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:218 framework/shortcode/options.php:539
+#: framework/shortcode/options.php:1757
+msgid "One Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:219 framework/shortcode/options.php:541
+#: framework/shortcode/options.php:1758
+msgid "Two Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:220 framework/shortcode/options.php:543
+#: framework/shortcode/options.php:1759
+msgid "Three Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:221 framework/shortcode/options.php:545
+#: framework/shortcode/options.php:1760
+msgid "Four Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:238 framework/shortcode/options.php:761
+#: framework/shortcode/options.php:1777 framework/shortcode/options.php:2452
+#: framework/shortcode/options.php:3201
+msgid "Count"
+msgstr ""
+
+#: framework/shortcode/options.php:239 framework/shortcode/options.php:1778
+msgid "Number of posts to show per page"
+msgstr ""
+
+#: framework/shortcode/options.php:249 framework/shortcode/options.php:1788
+msgid "offset (int) - number of post to displace or pass over"
+msgstr ""
+
+#: framework/shortcode/options.php:258 framework/shortcode/options.php:1797
+msgid "Category (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:265 framework/shortcode/options.php:1804
+msgid "Posts (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:266 framework/shortcode/options.php:1805
+msgid "The specific posts you want to display"
+msgstr ""
+
+#: framework/shortcode/options.php:275 framework/shortcode/options.php:1814
+msgid "If you don't want to show featured image disable this option."
+msgstr ""
+
+#: framework/shortcode/options.php:280 framework/shortcode/options.php:459
+#: framework/shortcode/options.php:1107 framework/shortcode/options.php:1819
+#: framework/shortcode/options.php:3005
+msgid "Title"
+msgstr ""
+
+#: framework/shortcode/options.php:282 framework/shortcode/options.php:1821
+msgid "Enable Title."
+msgstr ""
+
+#: framework/shortcode/options.php:287 framework/shortcode/options.php:1826
+msgid "Meta Box"
+msgstr ""
+
+#: framework/shortcode/options.php:289 framework/shortcode/options.php:1828
+msgid "Enable Meta Box."
+msgstr ""
+
+#: framework/shortcode/options.php:295 framework/shortcode/options.php:1834
+msgid "Excerpt"
+msgstr ""
+
+#: framework/shortcode/options.php:297 framework/shortcode/options.php:1836
+msgid "Enable Excerpt."
+msgstr ""
+
+#: framework/shortcode/options.php:302 framework/shortcode/options.php:1841
+msgid "More Button"
+msgstr ""
+
+#: framework/shortcode/options.php:304 framework/shortcode/options.php:1843
+msgid "Show Read More Button."
+msgstr ""
+
+#: framework/shortcode/options.php:334 framework/shortcode/options.php:1873
+msgid "Enable pagination"
+msgstr ""
+
+#: framework/shortcode/options.php:352 framework/shortcode/options.php:1891
+#: framework/shortcode/options.php:2022
+msgid "Sort retrieved portfolio items by parameter."
+msgstr ""
+
+#: framework/shortcode/options.php:358 framework/shortcode/options.php:1897
+#: framework/shortcode/options.php:2028
+msgid "Order by author"
+msgstr ""
+
+#: framework/shortcode/options.php:362 framework/shortcode/options.php:1901
+#: framework/shortcode/options.php:2032
+msgid "Order by last modified date"
+msgstr ""
+
+#: framework/shortcode/options.php:363 framework/shortcode/options.php:1902
+#: framework/shortcode/options.php:2033
+msgid "Order by number of comments"
+msgstr ""
+
+#: framework/shortcode/options.php:364 framework/shortcode/options.php:1903
+#: framework/shortcode/options.php:2034
+msgid "Order by post/page parent id"
+msgstr ""
+
+#: framework/shortcode/options.php:372
+msgid "Button"
+msgstr ""
+
+#: framework/shortcode/options.php:376
+msgid "Id"
+msgstr ""
+
+#: framework/shortcode/options.php:382
+msgid "Class"
+msgstr ""
+
+#: framework/shortcode/options.php:388
+msgid "Size"
+msgstr ""
+
+#: framework/shortcode/options.php:404
+msgid "Left"
+msgstr ""
+
+#: framework/shortcode/options.php:405
+msgid "Right"
+msgstr ""
+
+#: framework/shortcode/options.php:406
+msgid "Center"
+msgstr ""
+
+#: framework/shortcode/options.php:425 framework/shortcode/options.php:1052
+#: framework/shortcode/options.php:1084 framework/shortcode/options.php:1157
+msgid "Text"
+msgstr ""
+
+#: framework/shortcode/options.php:432
+msgid "Link"
+msgstr ""
+
+#: framework/shortcode/options.php:438 framework/shortcode/options.php:1039
+#: framework/shortcode/options.php:1142
+msgid "Link Target"
+msgstr ""
+
+#: framework/shortcode/options.php:441 framework/shortcode/options.php:739
+#: framework/shortcode/options.php:1042 framework/shortcode/options.php:1145
+#: framework/shortcode/options.php:1196 framework/shortcode/options.php:1220
+msgid "Choose one.."
+msgstr ""
+
+#: framework/shortcode/options.php:454
+msgid "Callout Box"
+msgstr ""
+
+#: framework/shortcode/options.php:471
+msgid "Button Text"
+msgstr ""
+
+#: framework/shortcode/options.php:477
+msgid "Button skin"
+msgstr ""
+
+#: framework/shortcode/options.php:488
+msgid "Button URL"
+msgstr ""
+
+#: framework/shortcode/options.php:498
+msgid "Code & Pre"
+msgstr ""
+
+#: framework/shortcode/options.php:521
+msgid "Columns"
+msgstr ""
+
+#: framework/shortcode/options.php:530
+msgid "One Half Last"
+msgstr ""
+
+#: framework/shortcode/options.php:532
+msgid "One Third Last"
+msgstr ""
+
+#: framework/shortcode/options.php:534
+msgid "Two Third Last"
+msgstr ""
+
+#: framework/shortcode/options.php:536
+msgid "One Fourth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:538
+msgid "Three Fourth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:540
+msgid "One Fifth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:542
+msgid "Two Fifth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:544
+msgid "Three Fifth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:546
+msgid "Four Fifth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:547
+msgid "One Sixth"
+msgstr ""
+
+#: framework/shortcode/options.php:548
+msgid "One Sixth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:549
+msgid "Five Sixth"
+msgstr ""
+
+#: framework/shortcode/options.php:550
+msgid "Five Sixth Last"
+msgstr ""
+
+#: framework/shortcode/options.php:564
+msgid "Contact Form"
+msgstr ""
+
+#: framework/shortcode/options.php:568 framework/shortcode/options.php:624
+msgid "email"
+msgstr ""
+
+#: framework/shortcode/options.php:574
+msgid "Button skin (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:585
+msgid "Success Text"
+msgstr ""
+
+#: framework/shortcode/options.php:595
+msgid "Contact Info"
+msgstr ""
+
+#: framework/shortcode/options.php:599
+msgid "Color (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:610
+msgid "Phone"
+msgstr ""
+
+#: framework/shortcode/options.php:617
+msgid "Cell Phone"
+msgstr ""
+
+#: framework/shortcode/options.php:630
+msgid "Address"
+msgstr ""
+
+#: framework/shortcode/options.php:637
+msgid "Name"
+msgstr ""
+
+#: framework/shortcode/options.php:647
+msgid "Custom List"
+msgstr ""
+
+#: framework/shortcode/options.php:660 framework/shortcode/options.php:1024
+#: framework/shortcode/options.php:1075 framework/shortcode/options.php:1116
+msgid "Color"
+msgstr ""
+
+#: framework/shortcode/options.php:677
+msgid "Divider"
+msgstr ""
+
+#: framework/shortcode/options.php:726
+msgid "Drop Caps"
+msgstr ""
+
+#: framework/shortcode/options.php:755
+msgid "Flickr id (<a href='http://idgettr.com/' target='_blank'>idGettr</a>)"
+msgstr ""
+
+#: framework/shortcode/options.php:771
+msgid "Display"
+msgstr ""
+
+#: framework/shortcode/options.php:784
+msgid "Gallery"
+msgstr ""
+
+#: framework/shortcode/options.php:812
+msgid "Height of Images"
+msgstr ""
+
+#: framework/shortcode/options.php:821
+msgid "How many Images?"
+msgstr ""
+
+#: framework/shortcode/options.php:830 framework/shortcode/options.php:842
+#: framework/shortcode/options.php:854 framework/shortcode/options.php:866
+#: framework/shortcode/options.php:878 framework/shortcode/options.php:890
+#, php-format
+msgid "item %d Title"
+msgstr ""
+
+#: framework/shortcode/options.php:836 framework/shortcode/options.php:848
+#: framework/shortcode/options.php:860 framework/shortcode/options.php:872
+#: framework/shortcode/options.php:884 framework/shortcode/options.php:896
+#, php-format
+msgid "Item %d Image src"
+msgstr ""
+
+#: framework/shortcode/options.php:909
+msgid "Address (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:927
+msgid "Content for the marker"
+msgstr ""
+
+#: framework/shortcode/options.php:942 framework/widgets/service.php:173
+msgid "Auto popup the info?"
+msgstr ""
+
+#: framework/shortcode/options.php:948
+msgid "Height"
+msgstr ""
+
+#: framework/shortcode/options.php:969
+msgid "Style 1"
+msgstr ""
+
+#: framework/shortcode/options.php:970
+msgid "Style 2"
+msgstr ""
+
+#: framework/shortcode/options.php:971
+msgid "Style 3"
+msgstr ""
+
+#: framework/shortcode/options.php:980
+msgid "Small"
+msgstr ""
+
+#: framework/shortcode/options.php:981
+msgid "Medium"
+msgstr ""
+
+#: framework/shortcode/options.php:982
+msgid "Large"
+msgstr ""
+
+#: framework/shortcode/options.php:996
+msgid "Highlight"
+msgstr ""
+
+#: framework/shortcode/options.php:1011
+msgid "Icon Link"
+msgstr ""
+
+#: framework/shortcode/options.php:1033 framework/shortcode/options.php:1134
+msgid "Href"
+msgstr ""
+
+#: framework/shortcode/options.php:1061
+msgid "Icon Text"
+msgstr ""
+
+#: framework/shortcode/options.php:1093
+msgid "Icon Box"
+msgstr ""
+
+#: framework/shortcode/options.php:1097
+msgid "Icon"
+msgstr ""
+
+#: framework/shortcode/options.php:1125
+msgid "Button Label"
+msgstr ""
+
+#: framework/shortcode/options.php:1168
+msgid "Image"
+msgstr ""
+
+#: framework/shortcode/options.php:1172
+msgid "Image Source Url"
+msgstr ""
+
+#: framework/shortcode/options.php:1179
+msgid "Image Title (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1186
+msgid "Image Description (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1193
+msgid "Align (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1205
+msgid "Lightbox"
+msgstr ""
+
+#: framework/shortcode/options.php:1211
+msgid "Lightbox group (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1217 framework/shortcode/options.php:3481
+msgid "width"
+msgstr ""
+
+#: framework/shortcode/options.php:1234 framework/shortcode/options.php:3457
+#: framework/shortcode/options.php:3489
+msgid "Height (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1243
+msgid "Link (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:1253
+msgid "Layouts"
+msgstr ""
+
+#: framework/shortcode/options.php:1254
+msgid "layouts"
+msgstr ""
+
+#: framework/shortcode/options.php:1258
+msgid "Two Column"
+msgstr ""
+
+#: framework/shortcode/options.php:1276
+msgid "Three Column"
+msgstr ""
+
+#: framework/shortcode/options.php:1300
+msgid "Four Column"
+msgstr ""
+
+#: framework/shortcode/options.php:1330
+msgid "Five Column"
+msgstr ""
+
+#: framework/shortcode/options.php:1366
+msgid "Six Column"
+msgstr ""
+
+#: framework/shortcode/options.php:1408
+msgid "One Third - Two Third"
+msgstr ""
+
+#: framework/shortcode/options.php:1426
+msgid "Two Third - One Third"
+msgstr ""
+
+#: framework/shortcode/options.php:1444
+msgid "One Fourth - Three Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:1462
+msgid "Three Fourth - One Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:1480
+msgid "One Fourth - One Fourth - One Half"
+msgstr ""
+
+#: framework/shortcode/options.php:1504
+msgid "One Fourth - One Half - One Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:1528
+msgid "One Half - One Fourth - One Fourth"
+msgstr ""
+
+#: framework/shortcode/options.php:1552
+msgid "Four Fifth - One Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:1570
+msgid "One Fifth - Four Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:1588
+msgid "Two Fifth - Three Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:1606
+msgid "Three Fifth - Two Fifth"
+msgstr ""
+
+#: framework/shortcode/options.php:1624
+msgid "One Sixth - Five Sixth"
+msgstr ""
+
+#: framework/shortcode/options.php:1642
+msgid "Five Sixth - One Sixth"
+msgstr ""
+
+#: framework/shortcode/options.php:1660
+msgid "One Sixth - One Sixth - One Sixth - One Half"
+msgstr ""
+
+#: framework/shortcode/options.php:1694
+msgid "Message Boxes"
+msgstr ""
+
+#: framework/shortcode/options.php:1702
+msgid "Success"
+msgstr ""
+
+#: framework/shortcode/options.php:1703
+msgid "Error"
+msgstr ""
+
+#: framework/shortcode/options.php:1704
+msgid "Warning"
+msgstr ""
+
+#: framework/shortcode/options.php:1705
+msgid "Info"
+msgstr ""
+
+#: framework/shortcode/options.php:1913
+msgid "Padding Divider"
+msgstr ""
+
+#: framework/shortcode/options.php:1949
+msgid "Sortable"
+msgstr ""
+
+#: framework/shortcode/options.php:1955
+msgid "Random Height?"
+msgstr ""
+
+#: framework/shortcode/options.php:1956
+msgid ""
+"If this option is on, you will get random height between 150 to 400. "
+"whenever you create a new portfolio post or update it, the height will be "
+"generated randomly. you may disable this option and set a fixed height below "
+"for all items."
+msgstr ""
+
+#: framework/shortcode/options.php:1962
+msgid "Fixed Height"
+msgstr ""
+
+#: framework/shortcode/options.php:1963
+msgid "This option works when Random Height option above is off."
+msgstr ""
+
+#: framework/shortcode/options.php:1972
+msgid "Disable Permalink into single post?"
+msgstr ""
+
+#: framework/shortcode/options.php:1973
+msgid ""
+"If your portfolios does not have single post or just simpley dont need you "
+"can enable this option to prevent going through single post. upon clicking "
+"the image the lightbox will either show featured image in full size or if "
+"you have defined a video it will display videos (youtube, vimeo,...)."
+msgstr ""
+
+#: framework/shortcode/options.php:1979
+msgid "Posts Per Page"
+msgstr ""
+
+#: framework/shortcode/options.php:1980
+msgid "Number of item to show per page, if set to -1 it will show all posts"
+msgstr ""
+
+#: framework/shortcode/options.php:1990 framework/shortcode/options.php:2807
+#: framework/shortcode/options.php:2850
+msgid "Category"
+msgstr ""
+
+#: framework/shortcode/options.php:1991
+msgid "The specific category you want to display, this is not required."
+msgstr ""
+
+#: framework/shortcode/options.php:1996
+msgid "Select Categories.."
+msgstr ""
+
+#: framework/shortcode/options.php:2000
+msgid "Ids"
+msgstr ""
+
+#: framework/shortcode/options.php:2001
+msgid "The specific portfolios you want to display, this is not required."
+msgstr ""
+
+#: framework/shortcode/options.php:2006
+msgid "Select Porfolios.."
+msgstr ""
+
+#: framework/shortcode/options.php:2040
+msgid "Gray Scale Images"
+msgstr ""
+
+#: framework/shortcode/options.php:2158
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/shortcode/options.php:2162
+msgid "How many Plans?"
+msgstr ""
+
+#: framework/shortcode/options.php:2171
+msgid "Plan Name 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2177
+msgid "Price 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2183
+msgid "Per 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2184 framework/shortcode/options.php:2192
+#: framework/shortcode/options.php:2239 framework/shortcode/options.php:2246
+#: framework/shortcode/options.php:2293 framework/shortcode/options.php:2300
+#: framework/shortcode/options.php:2348 framework/shortcode/options.php:2355
+#: framework/shortcode/options.php:2404 framework/shortcode/options.php:2411
+msgid "eg: Monthly, Annually, Daily,.."
+msgstr ""
+
+#: framework/shortcode/options.php:2191
+msgid "List Items 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2198
+msgid "Skin 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2199 framework/shortcode/options.php:2253
+#: framework/shortcode/options.php:2307 framework/shortcode/options.php:2362
+#: framework/shortcode/options.php:2418
+msgid "Insert your un-ordered list (HTML code)"
+msgstr ""
+
+#: framework/shortcode/options.php:2205
+msgid "Button Text 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2211
+msgid "Button URL 1 (including http://)"
+msgstr ""
+
+#: framework/shortcode/options.php:2217
+msgid "Popular Plan? 1"
+msgstr ""
+
+#: framework/shortcode/options.php:2218 framework/shortcode/options.php:2272
+#: framework/shortcode/options.php:2326 framework/shortcode/options.php:2381
+#: framework/shortcode/options.php:2437
+msgid "Turn on this option if you want to make this offer highlighted"
+msgstr ""
+
+#: framework/shortcode/options.php:2226
+msgid "Plan Name 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2232
+msgid "Price 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2238
+msgid "Per 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2245
+msgid "List Items 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2252
+msgid "Skin 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2259
+msgid "Button Text 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2265
+msgid "Button URL 2 (including http://)"
+msgstr ""
+
+#: framework/shortcode/options.php:2271
+msgid "Popular Plan? 2"
+msgstr ""
+
+#: framework/shortcode/options.php:2280
+msgid "Plan Name 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2286
+msgid "Price 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2292
+msgid "Per 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2299
+msgid "List Items 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2306
+msgid "Skin 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2313
+msgid "Button Text 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2319
+msgid "Button URL 3 (including http://)"
+msgstr ""
+
+#: framework/shortcode/options.php:2325
+msgid "Popular Plan? 3"
+msgstr ""
+
+#: framework/shortcode/options.php:2335
+msgid "Plan Name 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2341
+msgid "Price 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2347
+msgid "Per 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2354
+msgid "List Items 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2361
+msgid "Skin 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2368
+msgid "Button Text 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2374
+msgid "Button URL 4 (including http://)"
+msgstr ""
+
+#: framework/shortcode/options.php:2380
+msgid "Popular Plan? 4"
+msgstr ""
+
+#: framework/shortcode/options.php:2391
+msgid "Plan Name 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2397
+msgid "Price 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2403
+msgid "Per 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2410
+msgid "List Items 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2417
+msgid "Skin 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2424
+msgid "Button Text 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2430
+msgid "Button URL 5 (including http://)"
+msgstr ""
+
+#: framework/shortcode/options.php:2436
+msgid "Popular Plan? 5"
+msgstr ""
+
+#: framework/shortcode/options.php:2448
+msgid "Recent Comments"
+msgstr ""
+
+#: framework/shortcode/options.php:2468
+msgid "Height (Default: 300px)"
+msgstr ""
+
+#: framework/shortcode/options.php:2477
+msgid "Width (Default: 620px)"
+msgstr ""
+
+#: framework/shortcode/options.php:2486
+msgid "Effects (Default: random)"
+msgstr ""
+
+#: framework/shortcode/options.php:2496
+msgid "Pause"
+msgstr ""
+
+#: framework/shortcode/options.php:2505
+msgid "Animation Speed"
+msgstr ""
+
+#: framework/shortcode/options.php:2514
+msgid "Number of Slides"
+msgstr ""
+
+#: framework/shortcode/options.php:2523 framework/shortcode/options.php:2541
+#: framework/shortcode/options.php:2559 framework/shortcode/options.php:2577
+#: framework/shortcode/options.php:2595 framework/shortcode/options.php:2613
+#: framework/shortcode/options.php:2631 framework/shortcode/options.php:2649
+#: framework/shortcode/options.php:2667 framework/shortcode/options.php:2685
+#, php-format
+msgid "Slide %d Image URL"
+msgstr ""
+
+#: framework/shortcode/options.php:2529 framework/shortcode/options.php:2547
+#: framework/shortcode/options.php:2565 framework/shortcode/options.php:2583
+#: framework/shortcode/options.php:2601 framework/shortcode/options.php:2619
+#: framework/shortcode/options.php:2637 framework/shortcode/options.php:2655
+#: framework/shortcode/options.php:2673 framework/shortcode/options.php:2691
+#, php-format
+msgid "Slide %d Caption"
+msgstr ""
+
+#: framework/shortcode/options.php:2535 framework/shortcode/options.php:2553
+#: framework/shortcode/options.php:2571 framework/shortcode/options.php:2589
+#: framework/shortcode/options.php:2607 framework/shortcode/options.php:2625
+#: framework/shortcode/options.php:2643 framework/shortcode/options.php:2661
+#: framework/shortcode/options.php:2679 framework/shortcode/options.php:2697
+#, php-format
+msgid "Slide %d Link to"
+msgstr ""
+
+#: framework/shortcode/options.php:2706
+msgid "Skill Meter"
+msgstr ""
+
+#: framework/shortcode/options.php:2716
+msgid "Percent of knowledge"
+msgstr ""
+
+#: framework/shortcode/options.php:2728
+msgid "Sitemap"
+msgstr ""
+
+#: framework/shortcode/options.php:2733
+msgid "Sitemap Pages"
+msgstr ""
+
+#: framework/shortcode/options.php:2737 framework/shortcode/options.php:2762
+msgid "Number of pages"
+msgstr ""
+
+#: framework/shortcode/options.php:2746 framework/shortcode/options.php:2771
+msgid "Depth"
+msgstr ""
+
+#: framework/shortcode/options.php:2758
+msgid "Sitemap Categories"
+msgstr ""
+
+#: framework/shortcode/options.php:2780
+msgid "Show Count"
+msgstr ""
+
+#: framework/shortcode/options.php:2786
+msgid "Show Feed"
+msgstr ""
+
+#: framework/shortcode/options.php:2794
+msgid "Sitemap Posts"
+msgstr ""
+
+#: framework/shortcode/options.php:2798 framework/shortcode/options.php:2841
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/shortcode/options.php:2814
+msgid "Posts"
+msgstr ""
+
+#: framework/shortcode/options.php:2815
+msgid "The specific posts you don't want to display"
+msgstr ""
+
+#: framework/shortcode/options.php:2829 framework/shortcode/options.php:2857
+msgid "Show Comment"
+msgstr ""
+
+#: framework/shortcode/options.php:2837
+msgid "Sitemap Portfolios"
+msgstr ""
+
+#: framework/shortcode/options.php:2868
+msgid "Tables"
+msgstr ""
+
+#: framework/shortcode/options.php:2872
+msgid "Table ID"
+msgstr ""
+
+#: framework/shortcode/options.php:2886
+msgid "Tabs"
+msgstr ""
+
+#: framework/shortcode/options.php:2892
+msgid "classic"
+msgstr ""
+
+#: framework/shortcode/options.php:2894
+msgid "Classic"
+msgstr ""
+
+#: framework/shortcode/options.php:2895
+msgid "Modern"
+msgstr ""
+
+#: framework/shortcode/options.php:2900 framework/shortcode/options.php:3219
+msgid "Number of tabs"
+msgstr ""
+
+#: framework/shortcode/options.php:2909 framework/shortcode/options.php:2921
+#: framework/shortcode/options.php:2933 framework/shortcode/options.php:2945
+#: framework/shortcode/options.php:2957 framework/shortcode/options.php:2969
+#: framework/shortcode/options.php:3234 framework/shortcode/options.php:3253
+#: framework/shortcode/options.php:3272 framework/shortcode/options.php:3292
+#: framework/shortcode/options.php:3312 framework/shortcode/options.php:3332
+#: framework/shortcode/options.php:3352 framework/shortcode/options.php:3372
+#: framework/shortcode/options.php:3393 framework/shortcode/options.php:3413
+#, php-format
+msgid "Tab %d Title"
+msgstr ""
+
+#: framework/shortcode/options.php:2915 framework/shortcode/options.php:2927
+#: framework/shortcode/options.php:2939 framework/shortcode/options.php:2951
+#: framework/shortcode/options.php:2963 framework/shortcode/options.php:2975
+#: framework/shortcode/options.php:3240 framework/shortcode/options.php:3259
+#: framework/shortcode/options.php:3278 framework/shortcode/options.php:3298
+#: framework/shortcode/options.php:3318 framework/shortcode/options.php:3338
+#: framework/shortcode/options.php:3358 framework/shortcode/options.php:3378
+#: framework/shortcode/options.php:3399 framework/shortcode/options.php:3419
+#, php-format
+msgid "Tab %d Content"
+msgstr ""
+
+#: framework/shortcode/options.php:2985
+msgid "Tag Cloud"
+msgstr ""
+
+#: framework/shortcode/options.php:3001
+msgid "Toggle"
+msgstr ""
+
+#: framework/shortcode/options.php:3020
+msgid "Testimonial Slider"
+msgstr ""
+
+#: framework/shortcode/options.php:3024
+msgid "Auto Slide"
+msgstr ""
+
+#: framework/shortcode/options.php:3025
+msgid ""
+"The value you specify is the amount of time between 2 consecutive slides. "
+"Set to zero will disables auto-scrolling."
+msgstr ""
+
+#: framework/shortcode/options.php:3035
+msgid "Speed"
+msgstr ""
+
+#: framework/shortcode/options.php:3055
+msgid "Number of Testimonials"
+msgstr ""
+
+#: framework/shortcode/options.php:3065 framework/shortcode/options.php:3090
+#: framework/shortcode/options.php:3115 framework/shortcode/options.php:3140
+#: framework/shortcode/options.php:3164
+#, php-format
+msgid "Image %d"
+msgstr ""
+
+#: framework/shortcode/options.php:3071 framework/shortcode/options.php:3096
+#: framework/shortcode/options.php:3121 framework/shortcode/options.php:3146
+#: framework/shortcode/options.php:3170
+#, php-format
+msgid "Content %d"
+msgstr ""
+
+#: framework/shortcode/options.php:3077 framework/shortcode/options.php:3102
+#: framework/shortcode/options.php:3127 framework/shortcode/options.php:3152
+#: framework/shortcode/options.php:3176
+#, php-format
+msgid "Company Name %d"
+msgstr ""
+
+#: framework/shortcode/options.php:3083 framework/shortcode/options.php:3108
+#: framework/shortcode/options.php:3133 framework/shortcode/options.php:3158
+#: framework/shortcode/options.php:3182
+#, php-format
+msgid "URL %d"
+msgstr ""
+
+#: framework/shortcode/options.php:3195
+msgid "Username"
+msgstr ""
+
+#: framework/shortcode/options.php:3214
+msgid "Vertical Tabs"
+msgstr ""
+
+#: framework/shortcode/options.php:3228 framework/shortcode/options.php:3247
+#: framework/shortcode/options.php:3266 framework/shortcode/options.php:3286
+#: framework/shortcode/options.php:3306 framework/shortcode/options.php:3326
+#: framework/shortcode/options.php:3346 framework/shortcode/options.php:3366
+#: framework/shortcode/options.php:3387 framework/shortcode/options.php:3407
+#, php-format
+msgid "Tab %d Title Icon (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:3448
+msgid "Width (optional)"
+msgstr ""
+
+#: framework/shortcode/options.php:3503
+msgid "[raw]"
+msgstr ""
+
+#: framework/shortcode/options.php:3508
+msgid ""
+"This shortcode disables wordpress automatic formatting. insert your content "
+"into textarea if you need to get full control on your formatting."
+msgstr ""
+
+#: framework/widgets/service.php:78
+msgid "Displays google map."
+msgstr ""
+
+#: framework/widgets/service.php:154
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/service.php:157
+msgid "Address (optional):"
+msgstr ""
+
+#: framework/widgets/service.php:160
+msgid "Latitude:"
+msgstr ""
+
+#: framework/widgets/service.php:163
+msgid "Longitude:"
+msgstr ""
+
+#: framework/widgets/service.php:166
+msgid "Zoom value from 1 to 19:"
+msgstr ""
+
+#: framework/widgets/service.php:169
+msgid "Content for the marker:"
+msgstr ""
+
+#: framework/widgets/service.php:175
+msgid "Height:"
+msgstr ""
